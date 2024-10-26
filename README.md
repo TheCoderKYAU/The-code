@@ -1,14 +1,11 @@
 # The-code
 
-
-
-
-
 #include <iostream>
 
 using namespace std;
 
-int main(){
+int main()
+{
     int x, a;
     
     cin >> x;
